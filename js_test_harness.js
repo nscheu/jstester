@@ -1,15 +1,8 @@
 /**
 *	Simple JavaScript Test Harness
-*	@author Nicholas Scheuring : Nicholas.Scheuring@tcs-timeinc.com
-*	@created 12/8/2017
+*	@author Nicholas Scheuring 
 */
 
-
-/**
-*	File Changelog
-*	Author 		Date 			Description
-* 	NS 			12-8-2017 		File Created
-**/
 
 
 var testResults = [];
